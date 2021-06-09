@@ -11,5 +11,6 @@ I oo inspiration from pinterst.
 ![Website snapshot (mobile view)](https://user-images.githubusercontent.com/78990260/121291831-ef572180-c8b6-11eb-8b45-cad3b4ef845d.png)
 
 ### Desktop View
-![Website snapshot (desktop view)](https://user-images.githubusercontent.com/78990260/121291877-fd0ca700-c8b6-11eb-9969-dfeb1b9d929f.png)
+![Website snapshot (desktop view)](https://user-images.githubusercontent.com/78990260/121292478-03e7e980-c8b8-11eb-9444-72fa7f399592.png)
+
 
