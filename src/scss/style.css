@@ -575,7 +575,7 @@ footer {
 
 @media screen and (min-width: 630px) {
   header {
-    min-height: 45vh;
+    min-height: 50vh;
   }
   nav {
     margin: 0;
@@ -641,6 +641,9 @@ footer {
 }
 
 @media screen and (min-width: 755px) {
+  header {
+    min-height: 58vh;
+  }
   .serviceContainer > section:nth-child(1) {
     min-height: 60vh;
     display: -webkit-box;
